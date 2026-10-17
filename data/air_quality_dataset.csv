@@ -1,0 +1,9 @@
+temperature,humidity,pm25,status_kualitas
+30.5,65,25.0,Sehat
+32.0,80,68.5,Sedang
+28.5,90,95.0,Berbahaya
+29.0,70,30.2,Sehat
+33.5,75,72.0,Sedang
+31.0,85,110.5,Berbahaya
+27.0,60,18.0,Sehat
+34.0,88,85.0,Berbahaya
